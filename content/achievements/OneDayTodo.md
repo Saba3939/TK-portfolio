@@ -7,7 +7,7 @@ tags:
   - Tailwind
   - Supabase
 image: "/images/achievements/oneday-todo.png"
-github: "https://github.com/Saba3939/OneDayTodo"
+github: "https://github.com/Saba3939/oneday-todo"
 site: "https://oneday-todo.kents3939.workers.dev"
 ---
 
